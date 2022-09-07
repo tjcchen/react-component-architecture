@@ -13,6 +13,9 @@ Making an abstraction doesn't mean it's useful
 ## Links
 Break up a component into multiple components: https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components   
 
+## KISS
+- Keep It Simple Stupid
+- Most system work best if they are kept simple rather than make complicated
 
 ## Email
 tjcchen.engineer@gmail.com
