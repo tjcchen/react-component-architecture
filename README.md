@@ -8,7 +8,7 @@ bring out other details more clearly.
 Making an abstraction doesn't mean it's useful
 
 - React Docs: https://reactjs.org/docs/thinking-in-react.html
-- Figma Design: 
+- Figma Design: https://www.figma.com/community
 
 ## Links
 Break up a component into multiple components: https://kentcdodds.com/blog/when-to-break-up-a-component-into-multiple-components   
