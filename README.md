@@ -17,6 +17,14 @@ Break up a component into multiple components: https://kentcdodds.com/blog/when-
 - Keep It Simple Stupid
 - Most system work best if they are kept simple rather than make complicated
 
+## Prevent making unnecessary abstractions
+- Only create an abstraction when it makes sense
+1) Code reusability becomes problematic
+2) State management becomes difficult
+3) Performance suffers
+
+- Don't fixate on the DRY-princile
+
 ## Email
 tjcchen.engineer@gmail.com
 
