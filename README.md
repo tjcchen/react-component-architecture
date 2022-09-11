@@ -26,6 +26,9 @@ Break up a component into multiple components: https://kentcdodds.com/blog/when-
 - Don't fixate on the DRY-princile( Don't repeat yourself - DRY )
 1) Don't repeat yourself (DRY) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.
 
+## Finding a good balance
+- Between making and not making abstractions
+
 ## Email
 tjcchen.engineer@gmail.com
 
